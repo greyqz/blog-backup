@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://greyqz.github.io/"/>
-  <updated>2017-05-07T08:41:59.894Z</updated>
+  <updated>2017-05-07T08:44:26.429Z</updated>
   <id>http://greyqz.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://greyqz.github.io/2017/05/07/Patterns-20174a2/"/>
     <id>http://greyqz.github.io/2017/05/07/Patterns-20174a2/</id>
     <published>2017-05-07T08:40:22.000Z</published>
-    <updated>2017-05-07T08:41:59.894Z</updated>
+    <updated>2017-05-07T08:44:26.429Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>PATTERN CODE: 20174a2</p>
@@ -158,6 +158,14 @@
     
     </summary>
     
+    
+      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
+    
+      <category term="lwj" scheme="http://greyqz.github.io/tags/lwj/"/>
     
   </entry>
   
@@ -576,11 +584,11 @@
     </summary>
     
     
+      <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
+    
       <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
       <category term="Disqus" scheme="http://greyqz.github.io/tags/Disqus/"/>
-    
-      <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
     
   </entry>
   
@@ -656,11 +664,11 @@
     </summary>
     
     
-      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
-    
       <category term="Technology" scheme="http://greyqz.github.io/tags/Technology/"/>
     
       <category term="Software" scheme="http://greyqz.github.io/tags/Software/"/>
+    
+      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
   </entry>
   
