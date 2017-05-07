@@ -554,9 +554,9 @@
     
       <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
-      <category term="Disqus" scheme="http://greyqz.github.io/tags/Disqus/"/>
-    
       <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
+    
+      <category term="Disqus" scheme="http://greyqz.github.io/tags/Disqus/"/>
     
   </entry>
   
@@ -632,11 +632,11 @@
     </summary>
     
     
-      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
-    
       <category term="Technology" scheme="http://greyqz.github.io/tags/Technology/"/>
     
       <category term="Software" scheme="http://greyqz.github.io/tags/Software/"/>
+    
+      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
   </entry>
   
@@ -731,9 +731,9 @@
     </summary>
     
     
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
       <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
     
