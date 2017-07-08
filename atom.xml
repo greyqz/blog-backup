@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://greyqz.github.io/"/>
-  <updated>2017-07-08T12:10:28.564Z</updated>
+  <updated>2017-07-08T12:26:35.076Z</updated>
   <id>http://greyqz.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>H2 -  Course List (Part I)</title>
+    <link href="http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/"/>
+    <id>http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/</id>
+    <published>2017-07-08T12:11:10.000Z</published>
+    <updated>2017-07-08T12:26:35.076Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="H2-Course-list-PART-I"><a href="#H2-Course-list-PART-I" class="headerlink" title="H2: Course list (PART I)"></a>H2: Course list (PART I)</h3><img src="/2017/07/08/H2-Course-List-Part-I/Course_List.png" alt="Course list (part I)" title="Course list (part I)">
+<blockquote>
+<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/">http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/</a> .<br><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License"><br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;H2-Course-list-PART-I&quot;&gt;&lt;a href=&quot;#H2-Course-list-PART-I&quot; class=&quot;headerlink&quot; title=&quot;H2: Course list (PART I)&quot;&gt;&lt;/a&gt;H2: Course list (PAR
+    
+    </summary>
+    
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="H2" scheme="http://greyqz.github.io/tags/H2/"/>
+    
+  </entry>
   
   <entry>
     <title>H2 Studying Group: A New Journey</title>
@@ -838,9 +864,9 @@
     </summary>
     
     
-      <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
-    
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
     
