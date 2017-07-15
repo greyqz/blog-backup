@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://greyqz.github.io/"/>
-  <updated>2017-07-15T07:33:46.433Z</updated>
+  <updated>2017-07-15T10:08:04.254Z</updated>
   <id>http://greyqz.github.io/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>H2 -  Course List (Part I)</title>
+    <title>H2: Week 1 Working Report</title>
+    <link href="http://greyqz.github.io/2017/07/15/H2-Week-1-Working-Report/"/>
+    <id>http://greyqz.github.io/2017/07/15/H2-Week-1-Working-Report/</id>
+    <published>2017-07-15T09:40:11.000Z</published>
+    <updated>2017-07-15T10:08:04.254Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>Here comes the working report of <em>H2 Studying Group</em> during week 1. To be specific, this page is not only a log of what we had done, but also a place to hold feelings, thoughts, and results.</p>
+</blockquote>
+<p>Today, 15 July 2017, is the ending of week 1’s journey. Although we only had 2 days “reading class” and no more, I do feel a sense of success. Thank all members in the Group! You really did a good job!</p>
+<hr>
+<p>These two days we had read two passages from <em>The Guardian</em> newspaper:</p>
+<ul>
+<li><a href="https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz" target="_blank" rel="external">Everybody lies: how Google search reveals our darkest secrets</a></li>
+<li><a href="https://www.theguardian.com/world/2017/jul/09/liu-xiaobo-tells-foreign-doctors-he-wants-to-leave-china-for-treatment" target="_blank" rel="external">Activists call on China to release Liu Xiaobo for cancer treatment abroad</a></li>
+</ul>
+<p>I told them the second passage is from English reporter Tom Phillips who lives in Beijing. Thus we can’t simply criticise or praise the author because the author has its feelings, thoughts and values. Maybe he thought that Liu was truly an absolute activist, and he really respect Liu. We don’t know the background, so we can’t make any valuable comments.</p>
+<hr>
+<p>These two naughty girls had a great time at school, and they didn’t carefully read the passages. When I was explaining the meanings of the words and phrases, they said with smile: “We didn’t read the passage!” This is what I thought: …</p>
+<p>And now, after 3 days, I guess that they would not touch their homework until the class begins. Humans are simple!</p>
+<hr>
+<p>In the end, I would like to conclude with this saying:</p>
+<blockquote>
+<p>Genius is nothing but labor and diligence.</p>
+</blockquote>
+<p>See you next week, my friends!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Here comes the working report of &lt;em&gt;H2 Studying Group&lt;/em&gt; during week 1. To be specific, this page is not only a log of wh
+    
+    </summary>
+    
+      <category term="Projects" scheme="http://greyqz.github.io/categories/Projects/"/>
+    
+      <category term="H2 Studying Group" scheme="http://greyqz.github.io/categories/Projects/H2-Studying-Group/"/>
+    
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H2: Course List (Part I)</title>
     <link href="http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/"/>
     <id>http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/</id>
     <published>2017-07-08T12:11:10.000Z</published>
-    <updated>2017-07-15T07:33:46.433Z</updated>
+    <updated>2017-07-15T09:40:46.600Z</updated>
     
     <content type="html"><![CDATA[<h3 id="H2-Course-list-PART-I"><a href="#H2-Course-list-PART-I" class="headerlink" title="H2: Course list (PART I)"></a>H2: Course list (PART I)</h3><img src="/2017/07/08/H2-Course-List-Part-I/Course_List.png" alt="Course list (part I)" title="Course list (part I)">
 ]]></content>
@@ -139,9 +184,9 @@
       <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -262,9 +307,9 @@
       <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -592,9 +637,9 @@
       <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -768,11 +813,11 @@
       <category term="China" scheme="http://greyqz.github.io/categories/World-view/China/"/>
     
     
+      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
+    
       <category term="Technology" scheme="http://greyqz.github.io/tags/Technology/"/>
     
       <category term="Software" scheme="http://greyqz.github.io/tags/Software/"/>
-    
-      <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
   </entry>
   
@@ -872,9 +917,9 @@
     
       <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
     
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="lxy" scheme="http://greyqz.github.io/tags/lxy/"/>
     
