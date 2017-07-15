@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Shallow</title>
-  <subtitle>English / Student</subtitle>
+  <subtitle>English learning / Student daily</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://greyqz.github.io/"/>
-  <updated>2017-07-08T12:26:35.076Z</updated>
+  <updated>2017-07-15T07:33:46.433Z</updated>
   <id>http://greyqz.github.io/</id>
   
   <author>
@@ -20,12 +20,9 @@
     <link href="http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/"/>
     <id>http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/</id>
     <published>2017-07-08T12:11:10.000Z</published>
-    <updated>2017-07-08T12:26:35.076Z</updated>
+    <updated>2017-07-15T07:33:46.433Z</updated>
     
     <content type="html"><![CDATA[<h3 id="H2-Course-list-PART-I"><a href="#H2-Course-list-PART-I" class="headerlink" title="H2: Course list (PART I)"></a>H2: Course list (PART I)</h3><img src="/2017/07/08/H2-Course-List-Part-I/Course_List.png" alt="Course list (part I)" title="Course list (part I)">
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/">http://greyqz.github.io/2017/07/08/H2-Course-List-Part-I/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -34,10 +31,12 @@
     
     </summary>
     
+      <category term="Projects" scheme="http://greyqz.github.io/categories/Projects/"/>
+    
+      <category term="H2 Studying Group" scheme="http://greyqz.github.io/categories/Projects/H2-Studying-Group/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
-      <category term="H2" scheme="http://greyqz.github.io/tags/H2/"/>
     
   </entry>
   
@@ -46,16 +45,13 @@
     <link href="http://greyqz.github.io/2017/07/08/H2-Studying-Group-A-New-Journey/"/>
     <id>http://greyqz.github.io/2017/07/08/H2-Studying-Group-A-New-Journey/</id>
     <published>2017-07-08T11:29:28.000Z</published>
-    <updated>2017-07-08T12:10:28.564Z</updated>
+    <updated>2017-07-15T07:34:03.406Z</updated>
     
     <content type="html"><![CDATA[<p>Today is two days before the great experimental attempt coming. I am going to hold a summer camp for students who want to study and read books in a quiet and calm place. This summer camp can provide a clean and comfortable environment to learn knowledge, especially for senior high study. Learning is a lifelong journey and I want to keep my studying habits until the day that world ends. Thus, I made a plan of H2 Studying Group Summer Camp. I wonder what I can really get in the end.</p>
 <p>For teachers and students in <em>H2 Studying Group</em>, I hope all you want to do for learning can be found in this summer camp. </p>
 <p>The theme song of <em>H2 Studying Group</em> is <em>The Show</em> by Lenka.</p>
 <h4 id="The-Show-with-Chinese-translation"><a href="#The-Show-with-Chinese-translation" class="headerlink" title="The Show (with Chinese translation)"></a>The Show (with Chinese translation)</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div></pre></td><td class="code"><pre><div class="line">I&apos;m just a little bit caught in the middle</div><div class="line">我有点儿左右两难（进退两难）</div><div class="line">Life is a maze and love is a riddle</div><div class="line">生活是座迷宫 爱是个谜</div><div class="line">I don&apos;t know where to go, can&apos;t do it alone</div><div class="line">我不知道该去哪儿 我一个人做不到</div><div class="line">I&apos;ve tried, and I don&apos;t know why...</div><div class="line">我尝试了 我不知道为什么…</div><div class="line">Slow it down, make it stop</div><div class="line">放慢了速度 停了下来</div><div class="line">Or else my heart is going to pop</div><div class="line">否则我的心都要跳出来了</div><div class="line">&apos;Cause it&apos;s too much, yeah it&apos;s a lot</div><div class="line">因为这有点儿过份了 是的太过份了</div><div class="line">To be something I’m not</div><div class="line">要我成为一个不一样的（不真实的）我</div><div class="line">I&apos;m a fool out of love</div><div class="line">我是个失恋的大笨蛋</div><div class="line">&apos;Cause I just can&apos;t get enough...</div><div class="line">因为我无法满足</div><div class="line">I&apos;m just a little bit caught in the middle</div><div class="line">我有点儿左右两难（进退两难）</div><div class="line">Life is a maze and love is a riddle</div><div class="line">生活是座迷宫 爱是个谜</div><div class="line">I don&apos;t know where to go, can&apos;t do it alone</div><div class="line">我不知道该去哪儿我一个人做不到</div><div class="line">I&apos;ve tried, and I don&apos;t know why</div><div class="line">我尝试了 我不知道为什么…</div><div class="line">I&apos;m just a little girl lost in the moment</div><div class="line">我只是个一时很迷茫的小女孩</div><div class="line">I&apos;m so scared but I don&apos;t show it</div><div class="line">我很害怕但是我没有表现出来</div><div class="line">I can&apos;t figure it out, it&apos;s bringing me down</div><div class="line">我无法弄清楚 真把我给打倒了</div><div class="line">I know I’ve got to let it go...</div><div class="line">我知道我不得不放手（随它去，顺其自然）</div><div class="line">And just enjoy the show</div><div class="line">好好欣赏(享受）表演吧</div><div class="line">The sun is hot in the sky</div><div class="line">天气非常热</div><div class="line">Just like a giant spotlight</div><div class="line">太阳就像个巨大的聚光灯</div><div class="line">The people follow the signs</div><div class="line">最终人们按照指引</div><div class="line">And synchronize in time</div><div class="line">同时按指示做</div><div class="line">It&apos;s a joke, nobody knows</div><div class="line">这是个笑话 没有人知道</div><div class="line">They&apos;ve got a ticket to the show....</div><div class="line">他们有演出的门票</div><div class="line">I&apos;m just a little bit caught in the middle</div><div class="line">我有点儿左右两难（进退两难）</div><div class="line">Life is a maze and love is a riddle</div><div class="line">生活是座迷宫 爱是个谜</div><div class="line">I don&apos;t know where to go, can&apos;t do it alone</div><div class="line">我不知道该去哪儿 我一个人做不到</div><div class="line">I&apos;ve tried, and I don&apos;t know why...</div><div class="line">我尝试了 我不知道为什么…</div><div class="line">I&apos;m just a little girl lost in the moment</div><div class="line">我只是个一时很迷茫的小女孩</div><div class="line">I&apos;m so scared but I don&apos;t show it</div><div class="line">我很害怕但是我没有表现出来</div><div class="line">I can&apos;t figure it out, it&apos;s bringing me down</div><div class="line">我无法弄清楚 真把我给打倒了</div><div class="line">I know I’ve got to let it go...</div><div class="line">我知道我不得不放手（随它去，顺其自然）</div><div class="line">And just enjoy the show</div><div class="line">好好欣赏(享受）表演吧</div><div class="line">Just enjoy the show</div><div class="line">好好欣赏(享受）表演吧</div></pre></td></tr></table></figure>
 <p>Yes, my friend, just enjoy THE SHOW!</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/07/08/H2-Studying-Group-A-New-Journey/">http://greyqz.github.io/2017/07/08/H2-Studying-Group-A-New-Journey/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -64,10 +60,12 @@
     
     </summary>
     
+      <category term="Projects" scheme="http://greyqz.github.io/categories/Projects/"/>
+    
+      <category term="H2 Studying Group" scheme="http://greyqz.github.io/categories/Projects/H2-Studying-Group/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
-    
-      <category term="H2" scheme="http://greyqz.github.io/tags/H2/"/>
     
   </entry>
   
@@ -76,7 +74,7 @@
     <link href="http://greyqz.github.io/2017/05/21/Patterns-201705a-for-lwj/"/>
     <id>http://greyqz.github.io/2017/05/21/Patterns-201705a-for-lwj/</id>
     <published>2017-05-21T07:03:49.000Z</published>
-    <updated>2017-05-21T07:21:51.253Z</updated>
+    <updated>2017-07-15T07:32:35.184Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>PATTERN CODE: 201705a</p>
@@ -124,7 +122,6 @@
 </blockquote>
 <h1 id="throw-sth↔on"><a href="#throw-sth↔on" class="headerlink" title="throw sth↔on"></a>throw sth↔on</h1><h2 id="to-put-on-a-piece-of-clothing-quickly-and-carelessly-匆匆穿上（衣服）"><a href="#to-put-on-a-piece-of-clothing-quickly-and-carelessly-匆匆穿上（衣服）" class="headerlink" title="to put on a piece of clothing quickly and carelessly 匆匆穿上（衣服）"></a>to put on a piece of clothing quickly and carelessly 匆匆穿上（衣服）</h2><blockquote>
 <p>She just threw on the first skirt she found.<br>她找到一件裙子就匆忙穿上。</p>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/05/21/Patterns-201705a-for-lwj/">http://greyqz.github.io/2017/05/21/Patterns-201705a-for-lwj/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 </blockquote>
 ]]></content>
     
@@ -137,10 +134,14 @@
     
     </summary>
     
+      <category term="Language" scheme="http://greyqz.github.io/categories/Language/"/>
     
-      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+      <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -153,7 +154,7 @@
     <link href="http://greyqz.github.io/2017/05/07/Patterns-201704a2/"/>
     <id>http://greyqz.github.io/2017/05/07/Patterns-201704a2/</id>
     <published>2017-05-07T08:40:22.000Z</published>
-    <updated>2017-05-21T07:05:36.840Z</updated>
+    <updated>2017-07-15T07:32:14.482Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>PATTERN CODE: 201704a2</p>
@@ -243,9 +244,6 @@
 <p>● …the Temple of Diana at Ephesus. 以弗所的狄安娜神庙</p>
 <p>② (N-COUNT) 太阳穴;鬓角 Your temples are the flat parts on each side of the front part of your head, near your forehead.</p>
 <p>● Threads of silver ran through his beard and the hair at his temples.他的胡须和鬓发里夹杂着缕缕银丝。</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/05/07/Patterns-201704a2/">http://greyqz.github.io/2017/05/07/Patterns-201704a2/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -259,10 +257,14 @@
     
     </summary>
     
+      <category term="Language" scheme="http://greyqz.github.io/categories/Language/"/>
     
-      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+      <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -275,7 +277,7 @@
     <link href="http://greyqz.github.io/2017/05/07/I-am-back-here/"/>
     <id>http://greyqz.github.io/2017/05/07/I-am-back-here/</id>
     <published>2017-05-07T08:11:04.000Z</published>
-    <updated>2017-05-07T08:38:15.785Z</updated>
+    <updated>2017-07-15T07:31:55.880Z</updated>
     
     <content type="html"><![CDATA[<p>I am back!!!! It’s so happy to be here. The full exam was crazy, and I don’t know what to say. It seems that I got a bad score, but actually I had put a lot of energy into this. Therefore, I was pretty sad and got a feeling of disappointment. Although I don’t need to push myself so hard, but I just did it and I didn’t feel regretful about this. After all, I am still a study bully from the beginning.</p>
 <p>So, the exam is finished, isn’t it? I had experienced a lot. I made more friends, and got to know more and more knowledge. Studying is a lifelong journey, and I always wonder what tomorrow will happen. I like the new days especially at the “learning term”. There are two old sayings:</p>
@@ -286,9 +288,6 @@
 <p>Learning knowledge is my way to relax.</p>
 <p>But 4 days after I will fight with the PE final exam, and I am going to “make it easy”. Yes, just be relax. I won’t spare no efforts. However, I don’t have the ability to pass it.</p>
 <p>The future is more and more exciting and will be hard to go. I would be prepared to go through.</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/05/07/I-am-back-here/">http://greyqz.github.io/2017/05/07/I-am-back-here/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -296,6 +295,10 @@
       &lt;p&gt;I am back!!!! It’s so happy to be here. The full exam was crazy, and I don’t know what to say. It seems that I got a bad score, but actua
     
     </summary>
+    
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
     
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
@@ -309,15 +312,14 @@
     <link href="http://greyqz.github.io/2017/04/22/Composition-A-Mail-to-Mr-Smith/"/>
     <id>http://greyqz.github.io/2017/04/22/Composition-A-Mail-to-Mr-Smith/</id>
     <published>2017-04-22T00:47:56.000Z</published>
-    <updated>2017-05-07T08:33:19.264Z</updated>
+    <updated>2017-07-15T07:31:05.302Z</updated>
     
     <content type="html"><![CDATA[<p>Original question:</p>
 <p>假定你是李华，你的班级决定组织同学们5月30日端午节(the Dragon Boat Festival)一起骑自行车去西湖观看龙舟比赛。请你给外教史密斯先生写封邮件邀请他上午8:00 在学校门口集合，一同前往，感受中国传统文化。</p>
 <p>注意：</p>
 <p>1.词数100左右；</p>
 <p>2.可适当增加细节，以使行文连贯。</p>
-<div style="height:1px;width:100%;background:#DDD;overflow:hidden;"></div>
-
+<hr>
 <p>Dear Mr Smith:</p>
 <p>How are you? Are you free these days? Our class is going to hold a Dragon Boat Festival party and enjoy having fun watching Dragon Boat races together. The Dragon Boat Festival this year is on May 30th, and we all expect the most interesting part of the races! Will you come and join us?</p>
 <p>We <strong>sincerely</strong> invite you to our great party at 8:00 am at the school gate. We will go to the West Lake by bike and watch the Boat races. Do you know that the Dragon Boat Festival, which is one of the most famous Chinese cultural festivals, has interesting customs not only for watching but also for playing every year? All Chinese make rice dumplings during the festival. These leaf-covered rice dumplings are thrown into the river to <strong>memorialize</strong> a great poet named Qu Yuan. We also row Dragon Boats for competing in order to remember Qu Yuan’s death. People love Qu Yuan so much that we still celebrate this festival <strong>till now</strong>. The Boat race is a memory for all Chinese.</p>
@@ -393,9 +395,6 @@
 </ul>
 </li>
 </ol>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/22/Composition-A-Mail-to-Mr-Smith/">http://greyqz.github.io/2017/04/22/Composition-A-Mail-to-Mr-Smith/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -404,6 +403,10 @@
 &lt;p&gt;假定你是李华，你的班级决定组织同学们5月30日端午节(the Dragon Boat Festival)一起骑自行车去西湖观看龙舟比赛。请你给外教史密斯先生写封邮件邀请他上午8:00 在学校门口集合，一同前往，感受中国传统
     
     </summary>
+    
+      <category term="Compositions" scheme="http://greyqz.github.io/categories/Compositions/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Compositions/Junior/"/>
     
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
@@ -417,16 +420,12 @@
     <link href="http://greyqz.github.io/2017/04/22/Laugh-Out-Loud/"/>
     <id>http://greyqz.github.io/2017/04/22/Laugh-Out-Loud/</id>
     <published>2017-04-22T00:47:03.000Z</published>
-    <updated>2017-04-23T08:34:30.694Z</updated>
+    <updated>2017-07-15T07:31:45.391Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p><em>(My Translation(Damn it! Translating a poem is so hard.). Rose helped a lot.)</em></p>
 <p>When the sorghum wine was just vintaged, I returned from the village;<br>Yellow chicks pecking at grain, and grow fatter in the autumn.<br>Ask houseboy to stew chicks, and drink the wine with pleasure;<br>The children were laughing and laughing, pulling my gown clothes.<br>Singing on a sunny day, and seeking drunk, I want to use this to comfort myself;<br>Drunk and danced, competed with the autumn setting sun.<br>Persuading monarchs, I feel painful because the time is not early;<br>At full speed to catch up, began to run along the road away.<br>The stupid woman in Kuaiji Commandery looked down on the poor Zhu Maichen;<br>Now I also leave home to go to Chang’an, go west into the Qin.<br>Face toward the sky, laughing, and go out the door;<br>How could I be a man living for a long time being ordinary?</p>
 <p>白酒新熟山中歸，黃雞啄黍秋正肥。<br>呼童烹雞酌白酒，兒女嬉笑牽人衣。<br>高歌取醉欲自慰，起舞落日爭光輝。<br>游說萬乘苦不早，著鞭跨馬涉遠道。<br>會稽愚婦輕買臣，余亦辭家西入秦。<br>仰天大笑出門去，我輩豈是蓬蒿人。</p>
-<footer><strong>Li Bai </strong><cite>南陵別兒童入京</cite></footer></blockquote>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/22/Laugh-Out-Loud/">http://greyqz.github.io/2017/04/22/Laugh-Out-Loud/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
-]]></content>
+<footer><strong>Li Bai </strong><cite>南陵別兒童入京</cite></footer></blockquote>]]></content>
     
     <summary type="html">
     
@@ -435,12 +434,18 @@
     
     </summary>
     
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
     
       <category term="Poem" scheme="http://greyqz.github.io/tags/Poem/"/>
+    
+      <category term="Translate" scheme="http://greyqz.github.io/tags/Translate/"/>
     
   </entry>
   
@@ -449,7 +454,7 @@
     <link href="http://greyqz.github.io/2017/04/16/Patterns-201704a1-for-lwj/"/>
     <id>http://greyqz.github.io/2017/04/16/Patterns-201704a1-for-lwj/</id>
     <published>2017-04-16T09:04:43.000Z</published>
-    <updated>2017-05-21T07:21:43.432Z</updated>
+    <updated>2017-07-15T07:30:26.899Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>PATTERN CODE: 201704a1</p>
@@ -458,8 +463,7 @@
 <blockquote>
 <p>Source: Some explanations are copied from Oxford Dictionary.</p>
 </blockquote>
-<div style="height:1px;width:100%;background:#DDD;overflow:hidden;"></div>
-
+<hr>
 <h1 id="fond-adj-喜爱"><a href="#fond-adj-喜爱" class="headerlink" title="fond adj. 喜爱"></a>fond adj. 喜爱</h1><p><strong>e.g.</strong> I am fond of it, too.</p>
 <h2 id="fond-fɒnd-美-fɑ-nd"><a href="#fond-fɒnd-美-fɑ-nd" class="headerlink" title="fond |fɒnd; 美 fɑ:nd|"></a>fond |fɒnd; 美 fɑ:nd|</h2><p>(fonder, fondest)</p>
 <h3 id="of-sb-feeling-affection-for-sb-especially-sb-you-have-known-for-a-long-time-喜爱（尤指认识已久的人）"><a href="#of-sb-feeling-affection-for-sb-especially-sb-you-have-known-for-a-long-time-喜爱（尤指认识已久的人）" class="headerlink" title="~ of sb feeling affection for sb, especially sb you have known for a long time 喜爱（尤指认识已久的人）"></a><strong>~ of sb</strong> feeling affection for sb, especially sb you have known for a long time 喜爱（尤指认识已久的人）</h3><blockquote>
@@ -549,16 +553,14 @@
 <p>——more at quick adj.</p>
 <h2 id="动词-名词短语"><a href="#动词-名词短语" class="headerlink" title="[动词 + 名词短语]"></a>[动词 + 名词短语]</h2><h3 id="sth-with-sth-formal-to-make-sth-less-severe-by-adding-sth-that-has-the-opposite-effect-使缓和；使温和"><a href="#sth-with-sth-formal-to-make-sth-less-severe-by-adding-sth-that-has-the-opposite-effect-使缓和；使温和" class="headerlink" title="~ sth (with sth) (formal) to make sth less severe by adding sth that has the opposite effect 使缓和；使温和"></a>~ sth (with sth) (formal) to make sth less severe by adding sth that has the opposite effect 使缓和；使温和</h3><p>Justice must be tempered with mercy.<br>法外尚需施恩。</p>
 <h3 id="technical-术语-to-make-metal-as-hard-as-it-needs-to-be-by-heating-and-then-cooling-it-使（金属）回火"><a href="#technical-术语-to-make-metal-as-hard-as-it-needs-to-be-by-heating-and-then-cooling-it-使（金属）回火" class="headerlink" title="(technical 术语) to make metal as hard as it needs to be by heating and then cooling it 使（金属）回火"></a>(technical 术语) to make metal as hard as it needs to be by heating and then cooling it 使（金属）回火</h3><p><span style="border-bottom:2px dotted #42B983;"></span></p>
-<div style="height:1px;width:100%;background:#DDD;overflow:hidden;"></div>
-
+<hr>
 <h1 id="2016莆田"><a href="#2016莆田" class="headerlink" title="(2016莆田)"></a>(2016莆田)</h1><p><span style="border-bottom:2px dotted #42B983;">Train stations and airports are crowded, babies are crying, and passengers are arguing. The same story also happens during rush hours in big cities every day.</span> When there is a crowd, people <strong>lose their <em>tempers</em></strong>（脾气）easily. What makes polite travelers suddenly <strong>forget their manners</strong>?</p>
 <p>One of the causes is a crowded <em>cabin</em>（车厢）. It makes you <strong>feel a distance</strong> from your sense of self. In other words, you’re no longer yourself.</p>
 <p><em>Tiredness</em> also makes travelers <strong>lose their self-control</strong>. <strong>Think about all those</strong> traffic jams on the way to a train station, the long line waiting to enter the station and the busy phone calls from family, friends and <em>workmates</em>. <span style="border-bottom:2px dotted #42B983;">When travelers finally get on the train, their patience has already run out.</span></p>
 <p>Besides, <strong>a lack</strong>（缺乏）<strong>of</strong> sleep <strong>gives travelers a temper</strong>. If we <strong>are forces to</strong> get up early, many of us will <strong><em>act much more impatiently</em></strong>.</p>
 <p>So, how can we make the world a better place when we’re traveling with a big crowd? Try to improve the <em>atmosphere</em>（气氛）. If it’s a flight, the air <em>hostess</em> could stand in front of the cabin, saying things like, “How many of you are going home?” or “Raise your hand if you’ve never been on an airplane before.”</p>
 <p>What’s more, everyone can be helpful, such as giving the person next to you a smile, offering the seat to a <em>needy</em> person, and saying “It’s OK” if someone <strong><em>steps on your feet</em></strong>.</p>
-<div style="height:1px;width:100%;background:#DDD;overflow:hidden;"></div>
-
+<hr>
 <h1 id="Different-people-hold-different-views-on-…"><a href="#Different-people-hold-different-views-on-…" class="headerlink" title="Different people hold different views on …"></a>Different people hold different views on …</h1><h1 id="Some-think-that-…-Some-argue-that-…-Still-others-believe-that-…"><a href="#Some-think-that-…-Some-argue-that-…-Still-others-believe-that-…" class="headerlink" title="Some think that … Some argue that … Still others believe that …"></a>Some think that … Some argue that … Still others believe that …</h1><h1 id="diploma-毕业文凭-学位证书"><a href="#diploma-毕业文凭-学位证书" class="headerlink" title="* diploma 毕业文凭; 学位证书;"></a>* diploma 毕业文凭; 学位证书;</h1><p><strong>(N-COUNT)</strong> (大学)毕业文凭，学位证书;(美国中学的)毕业文凭 A <strong>diploma</strong> is a qualification which may be awarded to a student by a university or college, or by a high school in the United States.</p>
 <h1 id="On-the-contrary-…-与此相反；恰恰相反"><a href="#On-the-contrary-…-与此相反；恰恰相反" class="headerlink" title="On the contrary, … 与此相反；恰恰相反"></a>On the contrary, … 与此相反；恰恰相反</h1><p>used to introduce a statement that says the opposite of the last one 与此相反；恰恰相反</p>
 <blockquote>
@@ -573,10 +575,7 @@
 <p>contrary advice/opinions/arguments<br>完全相反的建议 / 观点 / 论点</p>
 <p>The contrary view is that prison provides an excellent education─in crime.<br>截然不同的看法是，监狱在犯罪方面提供极好的教育。</p>
 </blockquote>
-<h1 id="be-surround-by-被…包围-被…围绕"><a href="#be-surround-by-被…包围-被…围绕" class="headerlink" title="be surround by 被…包围; 被…围绕;"></a>be surround by 被…包围; 被…围绕;</h1><h2 id="surround-vt-包围，围绕-n-（物品的）边-外围物"><a href="#surround-vt-包围，围绕-n-（物品的）边-外围物" class="headerlink" title="surround vt. 包围，围绕; n. （物品的）边; 外围物;"></a>surround vt. 包围，围绕; n. （物品的）边; 外围物;</h2><h1 id="cadre-干部"><a href="#cadre-干部" class="headerlink" title="* cadre 干部"></a>* cadre 干部</h1><h1 id="fight-against-corruption-惩治腐败"><a href="#fight-against-corruption-惩治腐败" class="headerlink" title="* fight against corruption 惩治腐败"></a>* fight against corruption 惩治腐败</h1><blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/16/Patterns-201704a1-for-lwj/">http://greyqz.github.io/2017/04/16/Patterns-201704a1-for-lwj/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
-]]></content>
+<h1 id="be-surround-by-被…包围-被…围绕"><a href="#be-surround-by-被…包围-被…围绕" class="headerlink" title="be surround by 被…包围; 被…围绕;"></a>be surround by 被…包围; 被…围绕;</h1><h2 id="surround-vt-包围，围绕-n-（物品的）边-外围物"><a href="#surround-vt-包围，围绕-n-（物品的）边-外围物" class="headerlink" title="surround vt. 包围，围绕; n. （物品的）边; 外围物;"></a>surround vt. 包围，围绕; n. （物品的）边; 外围物;</h2><h1 id="cadre-干部"><a href="#cadre-干部" class="headerlink" title="* cadre 干部"></a>* cadre 干部</h1><h1 id="fight-against-corruption-惩治腐败"><a href="#fight-against-corruption-惩治腐败" class="headerlink" title="* fight against corruption 惩治腐败"></a>* fight against corruption 惩治腐败</h1>]]></content>
     
     <summary type="html">
     
@@ -588,10 +587,14 @@
     
     </summary>
     
+      <category term="Language" scheme="http://greyqz.github.io/categories/Language/"/>
     
-      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
+      <category term="Patterns" scheme="http://greyqz.github.io/categories/Language/Patterns/"/>
+    
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="http://greyqz.github.io/tags/Pattern/"/>
     
@@ -604,7 +607,7 @@
     <link href="http://greyqz.github.io/2017/04/16/How-Can-I-See-the-Comments/"/>
     <id>http://greyqz.github.io/2017/04/16/How-Can-I-See-the-Comments/</id>
     <published>2017-04-15T23:38:00.000Z</published>
-    <updated>2017-04-22T03:41:49.086Z</updated>
+    <updated>2017-07-15T07:29:02.955Z</updated>
     
     <content type="html"><![CDATA[<p>It seems that my blog comment service Disqus is blocked by GFW, so if you want to see comments without <strong>climbling the wall</strong>, you may need to edit system <code>hosts</code> file.</p>
 <h1 id="How-can-I-see-the-comments"><a href="#How-can-I-see-the-comments" class="headerlink" title="How can I see the comments?"></a>How can I see the comments?</h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>Open <code>hosts</code> file (<code>notepad</code> is OK). The <code>hosts</code> file should be there(source <a href="https://en.wikipedia.org/wiki/Hosts_(file" target="_blank" rel="external">Wikipedia</a>)):</p>
@@ -673,9 +676,6 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"># Disqus Start</div><div class="line">151.101.100.134 <a href="http://disqus.com" target="_blank" rel="noopener noreferrer">disqus.com</a></div><div class="line">151.101.100.134 <a href="http://www.disqus.com" target="_blank" rel="noopener noreferrer">www.disqus.com</a></div><div class="line">151.101.100.134 <a href="http://content.disqus.com" target="_blank" rel="noopener noreferrer">content.disqus.com</a></div><div class="line">151.101.100.134 <a href="http://referrer.disqus.com" target="_blank" rel="noopener noreferrer">referrer.disqus.com</a></div><div class="line">151.101.100.134 <a href="http://docs.disqus.com" target="_blank" rel="noopener noreferrer">docs.disqus.com</a></div><div class="line">151.101.100.134 <a href="http://dropbox.disqus.com" target="_blank" rel="noopener noreferrer">dropbox.disqus.com</a></div><div class="line">151.101.100.134 <a href="http://apkpure.disqus.com" target="_blank" rel="noopener noreferrer">apkpure.disqus.com</a></div><div class="line">151.101.100.64 <a href="http://glitter.services.disqus.com" target="_blank" rel="noopener noreferrer">glitter.services.disqus.com</a></div><div class="line">151.101.100.64 <a href="http://links.services.disqus.com" target="_blank" rel="noopener noreferrer">links.services.disqus.com</a></div><div class="line">173.192.82.196 <a href="http://realtime.services.disqus.com" target="_blank" rel="noopener noreferrer">realtime.services.disqus.com</a></div><div class="line">50.18.249.249 <a href="http://help.disqus.com" target="_blank" rel="noopener noreferrer">help.disqus.com</a></div><div class="line">23.65.183.218 <a href="http://about.disqus.com" target="_blank" rel="noopener noreferrer">about.disqus.com</a></div><div class="line">23.65.183.218 <a href="http://blog.disqus.com" target="_blank" rel="noopener noreferrer">blog.disqus.com</a></div><div class="line">23.65.183.218 <a href="http://publishers.disqus.com" target="_blank" rel="noopener noreferrer">publishers.disqus.com</a></div><div class="line"># Disqus End</div></pre></td></tr></table></figure>
 <h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>Then you maybe can see my comments (?!!)</p>
 <p>If not, press <code>Windows + R</code> and run <code>ipconfig /flushdns</code>. (for Windows)</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/16/How-Can-I-See-the-Comments/">http://greyqz.github.io/2017/04/16/How-Can-I-See-the-Comments/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -684,12 +684,14 @@
     
     </summary>
     
+      <category term="World view" scheme="http://greyqz.github.io/categories/World-view/"/>
     
-      <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
+      <category term="China" scheme="http://greyqz.github.io/categories/World-view/China/"/>
+    
     
       <category term="GFW" scheme="http://greyqz.github.io/tags/GFW/"/>
     
-      <category term="Disqus" scheme="http://greyqz.github.io/tags/Disqus/"/>
+      <category term="Discuss" scheme="http://greyqz.github.io/tags/Discuss/"/>
     
   </entry>
   
@@ -698,7 +700,7 @@
     <link href="http://greyqz.github.io/2017/04/15/Why-Not-Join-Me-and-Discuss-with-Me/"/>
     <id>http://greyqz.github.io/2017/04/15/Why-Not-Join-Me-and-Discuss-with-Me/</id>
     <published>2017-04-15T06:23:01.000Z</published>
-    <updated>2017-04-22T01:14:39.078Z</updated>
+    <updated>2017-07-15T07:28:15.662Z</updated>
     
     <content type="html"><![CDATA[<p>Although I invited many friends to discuss English with me, but I can hardly find one who really wants to discuss something real. As the saying goes:</p>
 <blockquote><p>A man becomes learned by asking questions.</p>
@@ -707,17 +709,17 @@
 </blockquote>
 <p>That’s sad. But I still hold a firm belief that someone would love to discuss with me.</p>
 <blockquote><p>噫！微斯人，吾誰與歸！<br>Alas! If there is no such person, who can be in the same camp with me? <em>(My translation)</em></p>
-<footer><strong>Fan Zhongyan </strong><cite>On Yueyang Tower (岳陽樓記)</cite></footer></blockquote>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/15/Why-Not-Join-Me-and-Discuss-with-Me/">http://greyqz.github.io/2017/04/15/Why-Not-Join-Me-and-Discuss-with-Me/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
-]]></content>
+<footer><strong>Fan Zhongyan </strong><cite>On Yueyang Tower (岳陽樓記)</cite></footer></blockquote>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;Although I invited many friends to discuss English with me, but I can hardly find one who really wants to discuss something real. As the 
     
     </summary>
+    
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
     
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
@@ -731,7 +733,7 @@
     <link href="http://greyqz.github.io/2017/04/15/How-to-Access-Blocked-Website/"/>
     <id>http://greyqz.github.io/2017/04/15/How-to-Access-Blocked-Website/</id>
     <published>2017-04-15T06:06:41.000Z</published>
-    <updated>2017-04-22T03:41:54.879Z</updated>
+    <updated>2017-07-15T07:27:29.558Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>If I have seen further, it is by standing on the shoulders of giants.</p>
 <footer><strong>Isaac Newton</strong></footer></blockquote>
@@ -752,9 +754,6 @@
 <li><a href="https://www.quora.com/" target="_blank" rel="external">Quora</a></li>
 </ul>
 <h1 id="Tip"><a href="#Tip" class="headerlink" title="Tip"></a>Tip</h1><p>If it doesn’t work very well, you may need to <strong>give the software more security powers</strong>.</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/15/How-to-Access-Blocked-Website/">http://greyqz.github.io/2017/04/15/How-to-Access-Blocked-Website/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -763,6 +762,10 @@
 &lt;footer&gt;&lt;strong&gt;Isaac Newton&lt;/strong&gt;&lt;/footer&gt;&lt;/blo
     
     </summary>
+    
+      <category term="World view" scheme="http://greyqz.github.io/categories/World-view/"/>
+    
+      <category term="China" scheme="http://greyqz.github.io/categories/World-view/China/"/>
     
     
       <category term="Technology" scheme="http://greyqz.github.io/tags/Technology/"/>
@@ -778,7 +781,7 @@
     <link href="http://greyqz.github.io/2017/04/11/My-Past-and-My-Future/"/>
     <id>http://greyqz.github.io/2017/04/11/My-Past-and-My-Future/</id>
     <published>2017-04-11T14:06:17.000Z</published>
-    <updated>2017-05-07T08:34:01.867Z</updated>
+    <updated>2017-07-15T07:26:54.845Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>为 g+x (郭家栩) 小姐姐定制的补习班作文. I used simple words to express my attitude.</p>
@@ -788,9 +791,6 @@
 <p>As we can see, three years ago we are young and naïve, and we all held our simple thoughts. But thereafter, we’ve joined our classes, listened to our teachers and enjoyed the feel of being praised. We spray our sweat and spread the joy of learning something new. Our faces have changed, and all of us have been much more beautiful than before, full of young spirit and expectation. And we are mature and outgoing now, however we were shy and didn’t dare to speak out loud. All of these changes are great for us, and our knowledgeable educators and professors have influenced our mind, and touched our hearts. Extremely thankful to the teachers I love: Ms. ZZX. She is not only a nice teacher but also a good friend.</p>
 <p>It’s time to break up, and I would love to show you my vision about my future. I am admitted to a key high school, and ought to work harder in schoolwork. I’ll read more and more books, and make a plan to travel around the world. I dare so I can change the world; I want so I can make my way to success. I am what I am, so are you!</p>
 <p>All in all, let’s change the world! It’s a great honor to speak here! Thanks for listening!</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/11/My-Past-and-My-Future/">http://greyqz.github.io/2017/04/11/My-Past-and-My-Future/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -801,6 +801,10 @@
 &lt;h1 id=&quot;My-Past-and-My-Future&quot;&gt;&lt;a hre
     
     </summary>
+    
+      <category term="Compositions" scheme="http://greyqz.github.io/categories/Compositions/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Compositions/Junior/"/>
     
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
@@ -814,7 +818,7 @@
     <link href="http://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/"/>
     <id>http://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/</id>
     <published>2017-04-10T14:02:50.000Z</published>
-    <updated>2017-04-19T14:19:29.947Z</updated>
+    <updated>2017-07-15T07:26:02.476Z</updated>
     
     <content type="html"><![CDATA[<p>The mid-term exam is coming. This exam will be held in 3 weeks and I haven’t been ready for it. It is really cruel for me. I am going to prepare for it more, with less computer work and more reviewing and learning.</p>
 <p>Actually, I am not worried at it. I worry about a final examination before the mid-term exam. This final exam examines our ability of Personal Education. I am weak, so I am nervous now. Hope it will be fine.</p>
@@ -823,9 +827,6 @@
 <p>Where there is a will, there is a way.</p>
 </blockquote>
 <p>I wonder what way I will finally go to in the future.</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/">http://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -833,6 +834,10 @@
       &lt;p&gt;The mid-term exam is coming. This exam will be held in 3 weeks and I haven’t been ready for it. It is really cruel for me. I am going to 
     
     </summary>
+    
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
     
     
       <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
@@ -846,15 +851,12 @@
     <link href="http://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/"/>
     <id>http://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/</id>
     <published>2017-04-10T13:45:48.000Z</published>
-    <updated>2017-04-19T14:20:13.522Z</updated>
+    <updated>2017-07-15T07:26:11.403Z</updated>
     
     <content type="html"><![CDATA[<p>Lxy is a kind of “study overlord” most of the time. She is smart and is talented in English, mathematics, and writing Chinese compositions.</p>
 <img src="/2017/04/10/Orz-Study-Overlord-lxy/lxy.png" alt="lxy's signature" title="lxy's signature">
 <p>Most of us admire her great learning habits and the highest grades, wondering how high she can actually get scores.</p>
 <p>So, let’s orz lxy!</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/">http://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -863,12 +865,16 @@
     
     </summary>
     
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
+    
+    
+      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
     
       <category term="English" scheme="http://greyqz.github.io/tags/English/"/>
-    
-      <category term="Study" scheme="http://greyqz.github.io/tags/Study/"/>
     
       <category term="lxy" scheme="http://greyqz.github.io/tags/lxy/"/>
     
@@ -879,23 +885,23 @@
     <link href="http://greyqz.github.io/2017/04/09/orz-dalao/"/>
     <id>http://greyqz.github.io/2017/04/09/orz-dalao/</id>
     <published>2017-04-09T01:18:59.000Z</published>
-    <updated>2017-04-19T14:19:58.886Z</updated>
+    <updated>2017-07-15T07:25:50.674Z</updated>
     
     <content type="html"><![CDATA[<p>Orz dalao every day!!!</p>
 <p>We are too young, too simple, sometimes naïve. Let us orz dalao!</p>
-<blockquote>
-<p><strong>Page link:</strong>  <a href="http://greyqz.github.io/2017/04/09/orz-dalao/">http://greyqz.github.io/2017/04/09/orz-dalao/</a> .<br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-</blockquote>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;Orz dalao every day!!!&lt;/p&gt;
 &lt;p&gt;We are too young, too simple, sometimes naïve. Let us orz dalao!&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Page link:&lt;/st
+
     
     </summary>
+    
+      <category term="Daily" scheme="http://greyqz.github.io/categories/Daily/"/>
+    
+      <category term="Junior" scheme="http://greyqz.github.io/categories/Daily/Junior/"/>
     
     
       <category term="orz" scheme="http://greyqz.github.io/tags/orz/"/>
