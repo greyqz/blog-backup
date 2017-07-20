@@ -830,10 +830,12 @@
           <a href="http://this.page.identifier" target="_blank" rel="noopener noreferrer">this.page.identifier</a> = '2017/04/10/Mid-term-Examination-is-Coming/';
           <a href="http://this.page.title" target="_blank" rel="noopener noreferrer">this.page.title</a> = 'Mid-term Examination is Coming';
         };
+        (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = '<a href="https://greyqz.disqus.com/embed.js'" target="_blank" rel="noopener noreferrer">https://greyqz.disqus.com/embed.js'</a>;
-        s.setAttribute('data-timestamp', '' + +new Date());
+        s.setAttribute('data-timestamp', + new Date());
         (d.head || d.body).appendChild(s);
+        })();
       </script>
     
 
