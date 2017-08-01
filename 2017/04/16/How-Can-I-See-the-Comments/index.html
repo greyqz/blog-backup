@@ -83,7 +83,7 @@
 <link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="GFW,Discuss," />
+  <meta name="keywords" content="Discuss,GFW," />
 
 
 
@@ -102,7 +102,7 @@
 
 
 <meta name="description" content="It seems that my blog comment service Disqus is blocked by GFW, so if you want to see comments without climbling the wall, you may need to edit system hosts file. How can I see the comments?1Open host">
-<meta name="keywords" content="GFW,Discuss">
+<meta name="keywords" content="Discuss,GFW">
 <meta property="og:type" content="article">
 <meta property="og:title" content="How Can I See the Comments">
 <meta property="og:url" content="https://greyqz.github.io/2017/04/16/How-Can-I-See-the-Comments/index.html">
@@ -537,9 +537,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/GFW/" rel="tag"># GFW</a>
-          
             <a href="/tags/Discuss/" rel="tag"># Discuss</a>
+          
+            <a href="/tags/GFW/" rel="tag"># GFW</a>
           
         </div>
       
@@ -589,6 +589,23 @@
 
           
   <div class="comments" id="comments">
+
+	<div id="container"></div>
+	<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+	<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	<script>
+	var gitment = new Gitment({
+	  //id: '页面 ID', // 可选。默认为 location.href
+	  owner: 'greyqz',
+	  repo: 'comment-repo',
+	  oauth: {
+	    client_id: 'a601e271212c35ed226b',
+	    client_secret: '5ed3571c5f098f56e996dc7e8e790ae301e6b6c4',
+	  },
+	})
+	gitment.render('container')
+	</script>
+
     
       <div id="disqus_thread">
         <noscript>

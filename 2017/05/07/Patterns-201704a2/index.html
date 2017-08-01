@@ -614,6 +614,23 @@
 
           
   <div class="comments" id="comments">
+
+	<div id="container"></div>
+	<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+	<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	<script>
+	var gitment = new Gitment({
+	  //id: '页面 ID', // 可选。默认为 location.href
+	  owner: 'greyqz',
+	  repo: 'comment-repo',
+	  oauth: {
+	    client_id: 'a601e271212c35ed226b',
+	    client_secret: '5ed3571c5f098f56e996dc7e8e790ae301e6b6c4',
+	  },
+	})
+	gitment.render('container')
+	</script>
+
     
       <div id="disqus_thread">
         <noscript>
