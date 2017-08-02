@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://greyqz.github.io/"/>
-  <updated>2017-08-02T09:33:54.256Z</updated>
+  <updated>2017-08-02T09:36:17.947Z</updated>
   <id>https://greyqz.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://greyqz.github.io/2017/08/02/Dash-or-Hyphen/"/>
     <id>https://greyqz.github.io/2017/08/02/Dash-or-Hyphen/</id>
     <published>2017-08-02T09:23:43.000Z</published>
-    <updated>2017-08-02T09:33:54.256Z</updated>
+    <updated>2017-08-02T09:36:17.947Z</updated>
     
     <content type="html"><![CDATA[<p>It’s easy to get confused between the hyphen (-) and the dash (–). This is a quick and simple guide to using them both:</p>
 <h2 id="The-Hyphen"><a href="#The-Hyphen" class="headerlink" title="The Hyphen"></a>The Hyphen</h2><p>Basically, the hyphen is the shorter mark that is often used to link two or more words together. It can sometimes be seen at the end of a line to break up a whole word that won’t fit into the space. For example:</p>
@@ -39,7 +39,7 @@
 <h2 id="Finding-the-en-dash-on-the-keyboard"><a href="#Finding-the-en-dash-on-the-keyboard" class="headerlink" title="Finding the en-dash on the keyboard"></a>Finding the en-dash on the keyboard</h2><p>Only the hyphen appears on keyboards as default. As a result, a lot of people mistakenly use the hyphen instead. Some people use two hyphens to approximate a dash (–).</p>
 <p>On the PC, you can get an en-dash by holding down the ALT key and pressing 0150 on the numeric keypad. <strong>Please note – this only works using the numbers on the numeric keypad on the right of your keyboard, not with the number keys above the letters.</strong></p>
 <p>On the Mac, you can get the en-dash by pressing the option and dash keys simultaneously.</p>
-<p>The HTML value <code>&amp;#8211</code>; can be used to add the en-dash to websites.</p>
+<p>The HTML value <code>&amp;#8211;</code> can be used to add the en-dash to websites.</p>
 <p>Microsoft Word automatically converts two hyphens into an em-dash (not an en-dash) when you start typing when typed between two words, but to get an en-dash you need to go to insert&gt;symbol&gt; and select either the en-dash or em-dash from the list of symbols.</p>
 <hr>
 <p>Reprint from <a href="http://www.dashhyphen.com/" target="_blank" rel="external">DashHyphen.com</a>.</p>
@@ -257,11 +257,11 @@
       <category term="Senior" scheme="https://greyqz.github.io/categories/Daily/Senior/"/>
     
     
+      <category term="Exam" scheme="https://greyqz.github.io/tags/Exam/"/>
+    
       <category term="orz" scheme="https://greyqz.github.io/tags/orz/"/>
     
       <category term="lxy" scheme="https://greyqz.github.io/tags/lxy/"/>
-    
-      <category term="Exam" scheme="https://greyqz.github.io/tags/Exam/"/>
     
   </entry>
   
@@ -371,9 +371,9 @@
       <category term="Patterns" scheme="https://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
-    
       <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="https://greyqz.github.io/tags/Pattern/"/>
     
@@ -550,9 +550,9 @@
       <category term="Patterns" scheme="https://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
-    
       <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="https://greyqz.github.io/tags/Pattern/"/>
     
@@ -673,9 +673,9 @@
       <category term="Patterns" scheme="https://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
-    
       <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="https://greyqz.github.io/tags/Pattern/"/>
     
@@ -1003,9 +1003,9 @@
       <category term="Patterns" scheme="https://greyqz.github.io/categories/Language/Patterns/"/>
     
     
-      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
-    
       <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
     
       <category term="Pattern" scheme="https://greyqz.github.io/tags/Pattern/"/>
     
