@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://greyqz.github.io/"/>
-  <updated>2017-07-23T11:40:27.011Z</updated>
+  <updated>2017-08-02T09:33:54.256Z</updated>
   <id>https://greyqz.github.io/</id>
   
   <author>
@@ -14,6 +14,127 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dash or Hyphen?</title>
+    <link href="https://greyqz.github.io/2017/08/02/Dash-or-Hyphen/"/>
+    <id>https://greyqz.github.io/2017/08/02/Dash-or-Hyphen/</id>
+    <published>2017-08-02T09:23:43.000Z</published>
+    <updated>2017-08-02T09:33:54.256Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s easy to get confused between the hyphen (-) and the dash (–). This is a quick and simple guide to using them both:</p>
+<h2 id="The-Hyphen"><a href="#The-Hyphen" class="headerlink" title="The Hyphen"></a>The Hyphen</h2><p>Basically, the hyphen is the shorter mark that is often used to link two or more words together. It can sometimes be seen at the end of a line to break up a whole word that won’t fit into the space. For example:</p>
+<blockquote>
+<p>user-friendly | part-time | jump-start | well-known | up-to-date | back-to-back | next-to-last</p>
+</blockquote>
+<p>Note that a hyphen never has spaces on either side.</p>
+<h2 id="The-Dash"><a href="#The-Dash" class="headerlink" title="The Dash"></a>The Dash</h2><p>The Dash is the longer line used as punctuation in sentences – coming in between words (as in this sentence). It can also be used – as here – in pairs. For example:</p>
+<blockquote>
+<p>Paul sang his song terribly – and he thought he was brilliant!</p>
+<p>He’s won the election—granted, there was only a low turnout—but he’s won!</p>
+</blockquote>
+<p>There are actually two types of Dash, the en-dash and the em-dash. The en-dash is the shorter version of the dash, named en-dash as it should be the same length as the letter ‘n’. The en-dash should always have spacing before and after. The first example above uses the en-dash.</p>
+<p>The em-dash is the longer version, named em-dash as it should be the same length as the letter ‘m’. The em-dash should never have spaces before or after it. The second example above uses the em-dash.</p>
+<p>The first version, the en-dash, is the most commonly used form.</p>
+<h2 id="Finding-the-en-dash-on-the-keyboard"><a href="#Finding-the-en-dash-on-the-keyboard" class="headerlink" title="Finding the en-dash on the keyboard"></a>Finding the en-dash on the keyboard</h2><p>Only the hyphen appears on keyboards as default. As a result, a lot of people mistakenly use the hyphen instead. Some people use two hyphens to approximate a dash (–).</p>
+<p>On the PC, you can get an en-dash by holding down the ALT key and pressing 0150 on the numeric keypad. <strong>Please note – this only works using the numbers on the numeric keypad on the right of your keyboard, not with the number keys above the letters.</strong></p>
+<p>On the Mac, you can get the en-dash by pressing the option and dash keys simultaneously.</p>
+<p>The HTML value <code>&amp;#8211</code>; can be used to add the en-dash to websites.</p>
+<p>Microsoft Word automatically converts two hyphens into an em-dash (not an en-dash) when you start typing when typed between two words, but to get an en-dash you need to go to insert&gt;symbol&gt; and select either the en-dash or em-dash from the list of symbols.</p>
+<hr>
+<p>Reprint from <a href="http://www.dashhyphen.com/" target="_blank" rel="external">DashHyphen.com</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s easy to get confused between the hyphen (-) and the dash (–). This is a quick and simple guide to using them both:&lt;/p&gt;
+&lt;h2 id=&quot;The-H
+    
+    </summary>
+    
+      <category term="Language" scheme="https://greyqz.github.io/categories/Language/"/>
+    
+      <category term="Grammars" scheme="https://greyqz.github.io/categories/Language/Grammars/"/>
+    
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
+    
+      <category term="Grammar" scheme="https://greyqz.github.io/tags/Grammar/"/>
+    
+      <category term="Reprint" scheme="https://greyqz.github.io/tags/Reprint/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tang Poetry Composition: Student Version</title>
+    <link href="https://greyqz.github.io/2017/08/02/Tang-Poetry-Composition-Student-Version/"/>
+    <id>https://greyqz.github.io/2017/08/02/Tang-Poetry-Composition-Student-Version/</id>
+    <published>2017-08-02T08:54:45.000Z</published>
+    <updated>2017-08-02T09:23:22.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>Student versions (from <em>H2 Studying Group</em>). (Modified by me, since there was literally many mistakes.)</p>
+<p>Original question &amp; my version see here: <a href="../2017/07/23/A-Mail-about-Tang-Poetry/">post “A Mail about Tang Dynasty”</a>.</p>
+<hr>
+<h2 id="Version-1-by-yjc"><a href="#Version-1-by-yjc" class="headerlink" title="Version 1 by yjc:"></a>Version 1 by yjc:</h2><p>Dear Leslie,</p>
+<p>How’s your vacation? I am writing to you to tell you my plan for our next class.</p>
+<p>First of all, we will have class at seven next Monday at my school. Remember to be on time!</p>
+<p>Next, I made a plan to teach you Tang’s poetry since you are interested in Tang’s culture. And then I would like to introduce my favorite poet Li Bai to you. I think nothing would be more interesting than reading his poems.</p>
+<p>So, what you need to preview is Tang culture. Tang Dynasty is a long period of the golden age of Chinese culture. That’s why its poetry was commended for the beauty and the depiction of the reality and is the most famous around the world. You will surely get a strong feeling of satisfaction when you have read it.</p>
+<p>In the end, hope you would like the class! See you then!</p>
+<p>Yours,</p>
+<p>Li Hua</p>
+<h2 id="Version-2-by-SG"><a href="#Version-2-by-SG" class="headerlink" title="Version 2 by SG:"></a>Version 2 by SG:</h2><p>Dear Leslie,</p>
+<p>How have you been? I am writing to you to remind you that tomorrow we will have a Chinese lesson at 2:00 pm at my school.</p>
+<p>Tomorrow I plan to teach you Tang poetry. It is another art carrier of the history and culture of Tang Dynasty. What’s more, it’s a core of Chinese culture. Therefore, I think you would love to learn these meaningful poems.</p>
+<p>And you can preview by looking through the historical background of Tang Dynasty in your leisure time.</p>
+<p>Last but not least, remember don’t be late for class. See you tomorrow!</p>
+<p>Yours,</p>
+<p>Li Hua</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Student versions (from &lt;em&gt;H2 Studying Group&lt;/em&gt;). (Modified by me, since there was literally many mistakes.)&lt;/p&gt;
+&lt;p&gt;Original question &amp;
+    
+    </summary>
+    
+      <category term="Compositions" scheme="https://greyqz.github.io/categories/Compositions/"/>
+    
+      <category term="Senior" scheme="https://greyqz.github.io/categories/Compositions/Senior/"/>
+    
+    
+      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
+    
+      <category term="Composition" scheme="https://greyqz.github.io/tags/Composition/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H2: Course List (Part II)</title>
+    <link href="https://greyqz.github.io/2017/08/01/H2-Course-List-Part-II/"/>
+    <id>https://greyqz.github.io/2017/08/01/H2-Course-List-Part-II/</id>
+    <published>2017-08-01T12:11:10.000Z</published>
+    <updated>2017-08-02T08:55:21.325Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="H2-Course-list-PART-II"><a href="#H2-Course-list-PART-II" class="headerlink" title="H2: Course list (PART II)"></a>H2: Course list (PART II)</h3><img src="/2017/08/01/H2-Course-List-Part-II/Course_List.png" alt="Course list (part II)" title="Course list (part II)">
+<p>A new journey is coming!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;H2-Course-list-PART-II&quot;&gt;&lt;a href=&quot;#H2-Course-list-PART-II&quot; class=&quot;headerlink&quot; title=&quot;H2: Course list (PART II)&quot;&gt;&lt;/a&gt;H2: Course list (
+    
+    </summary>
+    
+      <category term="Projects" scheme="https://greyqz.github.io/categories/Projects/"/>
+    
+      <category term="H2 Studying Group" scheme="https://greyqz.github.io/categories/Projects/H2-Studying-Group/"/>
+    
+    
+      <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
+    
+  </entry>
   
   <entry>
     <title>A Mail about Tang Poetry</title>
@@ -293,32 +414,6 @@
     
       &lt;blockquote&gt;
 &lt;p&gt;Here comes the working report of &lt;em&gt;H2 Studying Group&lt;/em&gt; during week 1. To be specific, this page is not only a log of wh
-    
-    </summary>
-    
-      <category term="Projects" scheme="https://greyqz.github.io/categories/Projects/"/>
-    
-      <category term="H2 Studying Group" scheme="https://greyqz.github.io/categories/Projects/H2-Studying-Group/"/>
-    
-    
-      <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>H2: Course List (Part II)</title>
-    <link href="https://greyqz.github.io/2017/07/08/H2-Course-List-Part-II/"/>
-    <id>https://greyqz.github.io/2017/07/08/H2-Course-List-Part-II/</id>
-    <published>2017-07-08T12:11:10.000Z</published>
-    <updated>2017-08-01T06:15:25.698Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="H2-Course-list-PART-II"><a href="#H2-Course-list-PART-II" class="headerlink" title="H2: Course list (PART II)"></a>H2: Course list (PART II)</h3><img src="/2017/07/08/H2-Course-List-Part-II/Course_List.png" alt="Course list (part II)" title="Course list (part II)">
-<p>A new journey is coming!</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;H2-Course-list-PART-II&quot;&gt;&lt;a href=&quot;#H2-Course-list-PART-II&quot; class=&quot;headerlink&quot; title=&quot;H2: Course list (PART II)&quot;&gt;&lt;/a&gt;H2: Course list (
     
     </summary>
     
@@ -1084,11 +1179,11 @@
       <category term="China" scheme="https://greyqz.github.io/categories/World-view/China/"/>
     
     
-      <category term="GFW" scheme="https://greyqz.github.io/tags/GFW/"/>
-    
       <category term="Technology" scheme="https://greyqz.github.io/tags/Technology/"/>
     
       <category term="Software" scheme="https://greyqz.github.io/tags/Software/"/>
+    
+      <category term="GFW" scheme="https://greyqz.github.io/tags/GFW/"/>
     
   </entry>
   
@@ -1126,73 +1221,6 @@
       <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
     
       <category term="Composition" scheme="https://greyqz.github.io/tags/Composition/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mid-term Examination is Coming</title>
-    <link href="https://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/"/>
-    <id>https://greyqz.github.io/2017/04/10/Mid-term-Examination-is-Coming/</id>
-    <published>2017-04-10T14:02:50.000Z</published>
-    <updated>2017-07-15T07:26:02.476Z</updated>
-    
-    <content type="html"><![CDATA[<p>The mid-term exam is coming. This exam will be held in 3 weeks and I haven’t been ready for it. It is really cruel for me. I am going to prepare for it more, with less computer work and more reviewing and learning.</p>
-<p>Actually, I am not worried at it. I worry about a final examination before the mid-term exam. This final exam examines our ability of Personal Education. I am weak, so I am nervous now. Hope it will be fine.</p>
-<p>Hopefully, I am a clever girl and I know what I can be. So I will finally see the fruit of success. As an old saying goes,</p>
-<blockquote>
-<p>Where there is a will, there is a way.</p>
-</blockquote>
-<p>I wonder what way I will finally go to in the future.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;The mid-term exam is coming. This exam will be held in 3 weeks and I haven’t been ready for it. It is really cruel for me. I am going to 
-    
-    </summary>
-    
-      <category term="Daily" scheme="https://greyqz.github.io/categories/Daily/"/>
-    
-      <category term="Junior" scheme="https://greyqz.github.io/categories/Daily/Junior/"/>
-    
-    
-      <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
-    
-      <category term="Exam" scheme="https://greyqz.github.io/tags/Exam/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Orz Study Overlord lxy</title>
-    <link href="https://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/"/>
-    <id>https://greyqz.github.io/2017/04/10/Orz-Study-Overlord-lxy/</id>
-    <published>2017-04-10T13:45:48.000Z</published>
-    <updated>2017-07-15T07:26:11.403Z</updated>
-    
-    <content type="html"><![CDATA[<p>Lxy is a kind of “study overlord” most of the time. She is smart and is talented in English, mathematics, and writing Chinese compositions.</p>
-<img src="/2017/04/10/Orz-Study-Overlord-lxy/lxy.png" alt="lxy's signature" title="lxy's signature">
-<p>Most of us admire her great learning habits and the highest grades, wondering how high she can actually get scores.</p>
-<p>So, let’s orz lxy!</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Lxy is a kind of “study overlord” most of the time. She is smart and is talented in English, mathematics, and writing Chinese composition
-    
-    </summary>
-    
-      <category term="Daily" scheme="https://greyqz.github.io/categories/Daily/"/>
-    
-      <category term="Junior" scheme="https://greyqz.github.io/categories/Daily/Junior/"/>
-    
-    
-      <category term="orz" scheme="https://greyqz.github.io/tags/orz/"/>
-    
-      <category term="English" scheme="https://greyqz.github.io/tags/English/"/>
-    
-      <category term="Study" scheme="https://greyqz.github.io/tags/Study/"/>
-    
-      <category term="lxy" scheme="https://greyqz.github.io/tags/lxy/"/>
     
   </entry>
   
