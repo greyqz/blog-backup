@@ -16,14 +16,7 @@
   </url>
   
   <url>
-    <loc>https://greyqz.github.io/js/game_manager.js</loc>
-    
-    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://greyqz.github.io/js/local_storage_manager.js</loc>
+    <loc>https://greyqz.github.io/js/grid.js</loc>
     
     <lastmod>2017-08-03T20:33:48.000Z</lastmod>
     
@@ -44,14 +37,35 @@
   </url>
   
   <url>
-    <loc>https://greyqz.github.io/js/grid.js</loc>
+    <loc>https://greyqz.github.io/style/fonts/clear-sans.css</loc>
     
     <lastmod>2017-08-03T20:33:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://greyqz.github.io/style/fonts/clear-sans.css</loc>
+    <loc>https://greyqz.github.io/js/tile.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/game_manager.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/animframe_polyfill.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/local_storage_manager.js</loc>
     
     <lastmod>2017-08-03T20:33:48.000Z</lastmod>
     
@@ -73,20 +87,6 @@
   
   <url>
     <loc>https://greyqz.github.io/js/application.js</loc>
-    
-    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://greyqz.github.io/js/animframe_polyfill.js</loc>
-    
-    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://greyqz.github.io/js/tile.js</loc>
     
     <lastmod>2017-08-03T20:33:48.000Z</lastmod>
     
