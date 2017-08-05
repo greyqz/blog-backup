@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://greyqz.github.io/style/main.css</loc>
+    
+    <lastmod>2017-08-05T03:57:02.413Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/404.html</loc>
+    
+    <lastmod>2017-08-05T03:43:56.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/game_manager.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/local_storage_manager.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/keyboard_input_manager.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/html_actuator.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/grid.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/style/fonts/clear-sans.css</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/classlist_polyfill.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/bind_polyfill.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/application.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/animframe_polyfill.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://greyqz.github.io/js/tile.js</loc>
+    
+    <lastmod>2017-08-03T20:33:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://greyqz.github.io/2017/08/02/Dash-or-Hyphen/</loc>
     
     <lastmod>2017-08-02T09:36:17.947Z</lastmod>
