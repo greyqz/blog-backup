@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Summer Holiday Review]]></title>
+    <url>%2F2017%2F08%2F15%2FSummer-Holiday-Review%2F</url>
+    <content type="text"><![CDATA[The busiest and the shortest summer holiday is going to an end. I am worried, since it means a new three-year school life. But life is just like this: she displayed all things that you need to take the responsibilities, and you can’t quit from the beginning. The holiday time is limited, but school days are unlimited. This summer holiday I did lots of things. I took OI lessons from July 4 to July 25. I learned Dynamic Programming and reviewed Graph algorithms. I also learned some STL structures and some special algorithms. I knew I need to learn more, not only from class but also from the Internet. I had a birthday without celebrating. On the day July 28, I didn’t prepare any cakes or gifts. That day is just like any other days. I meant I have grown up. Without celebrating, I found out that day is meaningful and colourful. It’s like a fresh midsummer. I paid a visit to my Chinese teacher sw on July 28. She is my Chinese teacher, but she is also my friend. She is wiser than most teachers and I respect her for her opinions and thoughts. She held a broad world view and she loves psychology and philosophy. We almost had a good time in her house. I was overwhelmed by the charm and hospitable of her. That was the happiest time of this summer holiday. I continued writing my paper about a research. I took hours to overwrite some sentences and parts that were not so nice. And I used LaTeX system instead of Word software to write my paper. Absolutely, it looks nicer. To do the research, I read lots of documents. I kept on reciting words on the word book. I know reciting words is important for senior high English study, so I recited almost every day. (Sometimes I fell asleep when I was reciting, and when I was wakened, it’s the next day.) Until now, I had recited 2500 of 3500 words. I participated in a drawing project to make pixel drawings on a large board. We drew a UOJ logo, a LibreOJ logo and a Codeforces logo. It was fun but it took time. I held a studying group this summer holiday, but the members are all too lazy to come and too lazy to do homework. So I didn’t continue. But it gave me an experience of holding a studying camp. And it tips me that the road to a higher place is lonely. There remain few days. I am going to a new world, a world that will happen lots of things. The senior high is coming! I am going to get a prize for me! The game is on.]]></content>
+      <categories>
+        <category>Daily</category>
+        <category>Senior</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
+        <tag>Holiday</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Dash or Hyphen?]]></title>
     <url>%2F2017%2F08%2F02%2FDash-or-Hyphen%2F</url>
     <content type="text"><![CDATA[It’s easy to get confused between the hyphen (-) and the dash (–). This is a quick and simple guide to using them both: The HyphenBasically, the hyphen is the shorter mark that is often used to link two or more words together. It can sometimes be seen at the end of a line to break up a whole word that won’t fit into the space. For example: user-friendly | part-time | jump-start | well-known | up-to-date | back-to-back | next-to-last Note that a hyphen never has spaces on either side. The DashThe Dash is the longer line used as punctuation in sentences – coming in between words (as in this sentence). It can also be used – as here – in pairs. For example: Paul sang his song terribly – and he thought he was brilliant! He’s won the election—granted, there was only a low turnout—but he’s won! There are actually two types of Dash, the en-dash and the em-dash. The en-dash is the shorter version of the dash, named en-dash as it should be the same length as the letter ‘n’. The en-dash should always have spacing before and after. The first example above uses the en-dash. The em-dash is the longer version, named em-dash as it should be the same length as the letter ‘m’. The em-dash should never have spaces before or after it. The second example above uses the em-dash. The first version, the en-dash, is the most commonly used form. Finding the en-dash on the keyboardOnly the hyphen appears on keyboards as default. As a result, a lot of people mistakenly use the hyphen instead. Some people use two hyphens to approximate a dash (–). On the PC, you can get an en-dash by holding down the ALT key and pressing 0150 on the numeric keypad. Please note – this only works using the numbers on the numeric keypad on the right of your keyboard, not with the number keys above the letters. On the Mac, you can get the en-dash by pressing the option and dash keys simultaneously. The HTML value &amp;#8211; can be used to add the en-dash to websites. Microsoft Word automatically converts two hyphens into an em-dash (not an en-dash) when you start typing when typed between two words, but to get an en-dash you need to go to insert&gt;symbol&gt; and select either the en-dash or em-dash from the list of symbols. Reprint from DashHyphen.com.]]></content>
@@ -73,8 +86,8 @@
         <category>Senior</category>
       </categories>
       <tags>
-        <tag>Exam</tag>
         <tag>orz</tag>
+        <tag>Exam</tag>
         <tag>lxy</tag>
       </tags>
   </entry>
@@ -289,8 +302,8 @@
         <category>Junior</category>
       </categories>
       <tags>
-        <tag>Study</tag>
         <tag>orz</tag>
+        <tag>Study</tag>
         <tag>English</tag>
         <tag>lxy</tag>
       </tags>
