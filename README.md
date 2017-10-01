@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+# Backup repo: greyqz.github.io
+## English blog / Student daily
+
+Site on GitHub pages: https://greyqz.github.io/
+
+(A blog based in Hexo and hexo-theme-gandalfr, licensed under CC BY-NC-SA 4.0.)
+
+----------
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+=======
+# greyqz.github.io
+A blog based in Hexo and hexo-theme-gandalfr, licensed under CC BY-NC-SA 4.0.
+>>>>>>> 12bf243a12b7f7e0ef58aaef4eced13eb3e60211
