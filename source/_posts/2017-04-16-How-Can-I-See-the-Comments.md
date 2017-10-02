@@ -16,7 +16,7 @@ It seems that the blog comment service Disqus is blocked by GFW, so if you want 
 
 ## Step 1
 
-Open `hosts` file (`notepad` is OK). The `hosts` file should be there[^1]:
+Open `hosts` file (`notepad` is OK). The `hosts` file should be there (source [Wikipedia](https://en.wikipedia.org/wiki/Hosts_(file))):
 
 | Operating System              | Version(s)                               | Location                                 |
 | :---------------------------- | :--------------------------------------- | :--------------------------------------- |
@@ -59,5 +59,3 @@ Edit the hosts file (some require `root`) and add the following lines below:
 Then you maybe can see my comments (?!!)
 
 If not, press `Windows + R` and run `ipconfig /flushdns`. (for Windows)
-
-[^1]: Source [Wikipedia](https://en.wikipedia.org/wiki/Hosts_(file)).
