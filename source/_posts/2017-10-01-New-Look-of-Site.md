@@ -11,6 +11,10 @@ toc: true
 
 I changed the theme of this site to [Maupassant](https://github.com/tufu9441/maupassant-hexo). And added some new functions.
 
+### Contents test
+
+New theme has a new way of styling each page. So I need to add this "toc" keyword by myself.
+
 ### Footnote test
 
 basic footnote[^1]
