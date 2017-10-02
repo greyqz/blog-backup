@@ -10,6 +10,8 @@ tags:
 ---
 
 > 为 g+x (郭家栩) 小姐姐定制的补习班作文. I used simple words to express my attitude.
+>
+> **Update:** g+x lied. :)
 
 # My Past and My Future
 

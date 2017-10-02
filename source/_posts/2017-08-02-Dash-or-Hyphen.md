@@ -8,6 +8,7 @@ tags:
 - English
 - Grammar
 - Reprint
+toc: true
 ---
 
 It’s easy to get confused between the hyphen (-) and the dash (–). This is a quick and simple guide to using them both:

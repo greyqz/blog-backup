@@ -7,15 +7,16 @@ categories:
 tags:
 - GFW
 - Discuss
+toc: true
 ---
 
-It seems that my blog comment service Disqus is blocked by GFW, so if you want to see comments without **climbling the wall**, you may need to edit system `hosts` file.
+It seems that the blog comment service Disqus is blocked by GFW, so if you want to see some blogs' comments without **climbling the wall**, you may need to edit system `hosts` file.
 
 # How can I see the comments?
 
-## 1
+## Step 1
 
-Open `hosts` file (`notepad` is OK). The `hosts` file should be there(source [Wikipedia](https://en.wikipedia.org/wiki/Hosts_(file))):
+Open `hosts` file (`notepad` is OK). The `hosts` file should be there[^1]:
 
 | Operating System              | Version(s)                               | Location                                 |
 | :---------------------------- | :--------------------------------------- | :--------------------------------------- |
@@ -30,7 +31,7 @@ Open `hosts` file (`notepad` is OK). The `hosts` file should be there(source [Wi
 | Android                       |                                          | `/etc/hosts` (a symbolic link to `/system/etc/hosts`) |
 | iOS                           | iOS 2.0 and newer                        | `/etc/hosts` (a symbolic link to `/private/etc/hosts`) |
 
-## 2
+## Step 2
 
 Edit the hosts file (some require `root`) and add the following lines below:
 
@@ -53,8 +54,10 @@ Edit the hosts file (some require `root`) and add the following lines below:
 # Disqus End
 ```
 
-## 3
+## Step 3
 
 Then you maybe can see my comments (?!!)
 
 If not, press `Windows + R` and run `ipconfig /flushdns`. (for Windows)
+
+[^1]: Source [Wikipedia](https://en.wikipedia.org/wiki/Hosts_(file)).

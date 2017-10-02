@@ -7,6 +7,7 @@ categories:
 tags:
 - English
 - Composition
+toc: true
 ---
 
 Student versions (from *H2 Studying Group*). (Modified by me, since there was literally many mistakes.)
