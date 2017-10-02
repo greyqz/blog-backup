@@ -37,4 +37,4 @@ How could I be a man living for a long time being ordinary?
 {% endblockquote %}
 
 [^1]: Absolutely, translating a poem is so hard...
-[^2]: Kuaiji Commandery: 会稽郡. Zhu Maichen: 朱买臣, 西汉会稽郡太守, 位列九卿.  “会稽愚妇” 是指朱买臣的妻子, 据《汉书 · 朱买臣传》记载: 朱买臣早年家贫, 以卖柴为生 ,他的妻子见他 40 岁时还仍是个樵夫, 便离他别嫁. 后来朱买臣 50 岁时做了会稽太守, 衣锦归乡, 这前妻悔得吐血, 又想重续旧好, 殊不知覆水难收, 只好悬梁了事.
+[^2]: Kuaiji Commandery: 会稽郡. Zhu Maichen: 朱买臣, 西汉会稽郡太守, 位列九卿.  “会稽愚妇” 是指朱买臣的妻子, 据《汉书 · 朱买臣传》记载: 朱买臣早年家贫, 以卖柴为生, 他的妻子见他 40 岁时还仍是个樵夫, 便离他别嫁. 后来朱买臣 50 岁时做了会稽太守, 衣锦归乡, 这前妻悔得吐血, 又想重续旧好, 殊不知覆水难收, 只好悬梁了事.
