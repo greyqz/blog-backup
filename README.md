@@ -1,5 +1,4 @@
 # greyqz.github.io
-## English blog / Student daily
 
 Site on GitHub pages: https://greyqz.github.io/
 
