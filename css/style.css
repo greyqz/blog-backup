@@ -127,7 +127,8 @@ div {
       padding: 0; }
       #sidebar .widget ul li {
         margin: 5px 0;
-        line-height: 1.5; }
+        line-height: 1.5;
+        margin-left: 1em; }
     #sidebar .widget .category-list-count {
       padding-left: 5px;
       color: #6E7173; }
