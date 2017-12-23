@@ -18,7 +18,7 @@ I must say: the world is unstable, and everything is gonna happen. I feel ANXIOU
 
 -----
 
-**YY:** The world is changing all the time. Don't fear, but accept it.
+**Ms YY:** The world is changing all the time. Don't fear, but accept it.
 
 **Me:** Alright. Maybe I would love these changes from time to time :)
 

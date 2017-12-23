@@ -18,28 +18,34 @@ At last, I want to say: feel free to visit my blog!
 
 -----
 
-**Social profile:**
+### Social profile
 
 - Luogu (the largest city-wide dating website): [View Link](https://www.luogu.org/space/show?uid=18397)
 - GitHub (the world's largest same-sex dating platform): [View Link](https://github.com/greyqz)
 - Douban (the site full of Chicken Soups): [View Link](https://www.douban.com/people/161648439/)
 - Zhihu (kind of like a China version of Quora): [View Link](https://www.zhihu.com/people/mary-grey)
 
-**Contact me:**
+### Contact me
 
 - Email: greyqz@126.com
 
 
-**License:**
+### License & Rewarding
 
 - If you want to share, repost, rewrite, etc., see [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (the License on this page is included).
+- You can reward my articles by scanning QR code here:
 
-**Friend links:**
+<img src="../about/index/wechat.png" width="200px" />
+
+-----
+
+### Friend links
 
 - Shallow Grey: http://www.cnblogs.com/greyqz/
+- White Grey: https://www.luogu.org/blog/grey/
 - SJoshua - Shadow Forest: http://sforest.in/
 
-**Thanks:**
+### Thanks
 
 Best wishes to who I love!
 

@@ -56,6 +56,6 @@ Edit the hosts file (some require `root`) and add the following lines below:
 
 ## Step 3
 
-Then you maybe can see my comments (?!!)
+Then you maybe can see Disqus comments (?!!)
 
 If not, press `Windows + R` and run `ipconfig /flushdns`. (for Windows)

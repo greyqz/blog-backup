@@ -13,7 +13,7 @@ tags:
 
 {% blockquote Li Bai , 南陵別兒童入京 %}
 
-*(Translated by me[^1]. Helped by Roses.)*
+*(Translated by me[^1]. Helped by sister Roses.)*
 
 When the sorghum wine was just vintaged, I returned from the village;
 Yellow chicks pecking at grain, and grow fatter in the autumn.
