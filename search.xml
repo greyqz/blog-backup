@@ -5,35 +5,22 @@
     <entry>
       <title><![CDATA[Compositions for exam 20180329]]></title>
       <url>/2018/03/29/Compositions-20180329/</url>
-      <content type="html"><![CDATA[<script src=/js/crypto-js.js></script><script>
-function doDecrypt(pwd, onError) {
-	console.log("in doDecrypt");
-	var txt = document.getElementById("enc_content").innerHTML;
-	var plantext;
-	try {
-	  	var bytes = CryptoJS.AES.decrypt(txt, pwd);
-		plaintext = bytes.toString(CryptoJS.enc.Utf8);
-	} catch(err) {
-		if(onError) {onError(err);}
-		return;
-	}
-	document.getElementById("enc_content").innerHTML = plaintext;
-	document.getElementById("enc_content").style.display = "block";
-   document.getElementById("enc_passwd").style.display = "none";
-}
-</script>
-<div id="enc_content" style="display:none">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</div><div id="enc_passwd"> <input id="enc_pwd_input" type="text" style="border-radius: 5px;border-style: groove;height: 30px;width: 50%;cursor: auto;font-size: 102%;color: currentColor;outline: none;text-overflow: initial;padding-left: 5px;" onkeydown="if (event.keyCode == 13) { decrypt(); return false;}"> <input type="submit" value="解&nbsp;密" onclick="decrypt()" style="width: 58px;height: 34px;border-radius: 5px;background-color: white;border-style: solid;color: currentColor;"><div id="enc_error" style="display: inline-block;color: #d84527;margin-left: 10px"></div>
-<script>
-var onError = function(error) {
-	document.getElementById("enc_error").innerHTML = "password error!"
-};
-function decrypt() {
-var passwd = document.getElementById("enc_pwd_input").value;
-console.log(passwd);
-doDecrypt(passwd, onError);
-}
-</script>
-</div>]]></content>
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>Monthly Exam I</strong> is coming. Writing some compositions<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> to make full preparations. CONFIDENCIAL before exam.</p>
+</blockquote>
+<h3 id="i-A-Mail-about-the-Mid-Autumn-Day"><a href="#i-A-Mail-about-the-Mid-Autumn-Day" class="headerlink" title="i) A Mail about the Mid-Autumn Day"></a>i) A Mail about the Mid-Autumn Day</h3><p>Dear John,</p>
+<p>Previously you’d like to learn the Mid-Autumn Day, and you can have a better comprehension through my brief introduction.</p>
+<p>The Mid-Autumn Day is one of the traditions in China which usually holds in September or October. Obviously, the Mid-Autumn Day is also one of the seven most important festivals.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> At this day, people gather together and enjoy the time of the family. After a big meal, all family members come out to admire the full moon in the middle sky. When staring at the moon, people also eat mooncakes, traditional food shaped like a full moon. There are a variety of mooncakes, many of which are tasty and sweet. Watching the moon, eating mooncakes and nuts, talking and laughing, the happy times sweep all the worries and annoyances away. And that is why we celebrate the Mid-Autumn Day as a legal holiday.</p>
+<p>The above is all. I’m looking forward to your earliest reply.</p>
+<p>Yours sincerely,</p>
+<p>Li Hua</p>
+<h3 id="ii-A-Speech-about-Healthy-Eating-Habits"><a href="#ii-A-Speech-about-Healthy-Eating-Habits" class="headerlink" title="ii) A Speech about Healthy Eating Habits"></a>ii) A Speech about Healthy Eating Habits</h3><p><u>Dear friends,</u></p>
+<p><u>As we all know, we are what we eat. Therefore, it’s very important for us to form healthy eating habits.</u> The following part I’d like to discuss the eating habits.</p>
+<p>Nowadays some students hold an unbalanced diet. They don’t eat breakfast since there is no so much time to eat. They prefer snacks rather than meals and are particular about food. Some of them declare themselves as vegetarian, and some others simply don’t like vegetables. And the worth is that some students are overweight owing to the high intake of trans fats.</p>
+<p>That would be bad if you still persist your unhealthy eating habits. On the contrary, we all need to hold healthy ones. First, we should eat in multi-dimension. Main meals, eggs and milk,  meats and vegetables, whole grains, all kinds of food should be eaten. Second, we should have meals in particular times, for example, 3 times a day. Also, the amount we eat should be controlled at an exact point. Don’t eat too much – it would be damaging to our figure. All in all, do what you think is healthy.</p>
+<p><u>That’s all. Thank you!</u></p>
+<p><br><br><strong>Page link:</strong>  <a href="https://greyqz.github.io/2018/03/29/Compositions-20180329/">https://greyqz.github.io/2018/03/29/Compositions-20180329/</a> .<br>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="external">CC BY-NC-SA 4.0 International License</a>.<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">The subjects are from 教材完全解读, 高中英语, 必修三, 中国青年出版社 (2015). Thanks for the interesting and challenging subjects given in this book.</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">The other six are the New Year, the Chinese New Year, the Tomb-Sweeping Day, the Labor Day, the Dragon Boat Festival, and the National Day.</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div></p>
+]]></content>
       
         <categories>
             
@@ -46,9 +33,9 @@ doDecrypt(passwd, onError);
         
         <tags>
             
-            <tag> English </tag>
-            
             <tag> Exam </tag>
+            
+            <tag> English </tag>
             
             <tag> Composition </tag>
             
@@ -504,9 +491,9 @@ doDecrypt(passwd, onError);
             
             <tag> orz </tag>
             
-            <tag> lxy </tag>
-            
             <tag> Exam </tag>
+            
+            <tag> lxy </tag>
             
         </tags>
         
@@ -613,9 +600,9 @@ doDecrypt(passwd, onError);
         
         <tags>
             
-            <tag> English </tag>
-            
             <tag> Study </tag>
+            
+            <tag> English </tag>
             
             <tag> Pattern </tag>
             
@@ -784,9 +771,9 @@ doDecrypt(passwd, onError);
         
         <tags>
             
-            <tag> English </tag>
-            
             <tag> Study </tag>
+            
+            <tag> English </tag>
             
             <tag> Pattern </tag>
             
@@ -901,9 +888,9 @@ doDecrypt(passwd, onError);
         
         <tags>
             
-            <tag> English </tag>
-            
             <tag> Study </tag>
+            
+            <tag> English </tag>
             
             <tag> Pattern </tag>
             
@@ -1222,9 +1209,9 @@ doDecrypt(passwd, onError);
         
         <tags>
             
-            <tag> English </tag>
-            
             <tag> Study </tag>
+            
+            <tag> English </tag>
             
             <tag> Pattern </tag>
             
@@ -1493,9 +1480,9 @@ doDecrypt(passwd, onError);
             
             <tag> orz </tag>
             
-            <tag> English </tag>
-            
             <tag> Study </tag>
+            
+            <tag> English </tag>
             
             <tag> lxy </tag>
             
