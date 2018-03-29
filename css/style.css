@@ -23,7 +23,8 @@ body {
   font-family: "PT Serif", "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 14px; }
+  font-size: 14px;
+  word-wrap: break-word; }
 
 .body_container {
   padding: 0 60px;
@@ -223,7 +224,7 @@ div {
     padding-top: 15px;
     text-align: justify;
     text-justify: distribute;
-    word-break: break-all; }
+    word-break: break-word; }
     .post .post-content h2 {
       margin: 1.4em 0 1.1em;
       border-bottom: 1px solid #eee;
@@ -242,7 +243,7 @@ div {
       .post .post-content p a {
         color: #01579f;
         padding-bottom: 2px;
-        word-break: break-all; }
+        word-break: break-word; }
         .post .post-content p a:hover {
           text-decoration: underline; }
     .post .post-content .caption {
@@ -275,7 +276,7 @@ div {
       .post .post-content ul a, .post .post-content ol a {
         color: #01579f;
         padding-bottom: 2px;
-        word-break: break-all; }
+        word-break: break-word; }
         .post .post-content ul a:hover, .post .post-content ol a:hover {
           text-decoration: underline; }
   .post .tags {
