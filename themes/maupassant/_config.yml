@@ -2,10 +2,10 @@ fancybox: true ## If you want to use fancybox please set the value to true.
 disqus: ## Your disqus_shortname, e.g. username
 gitment:
   enable: true ## If you want to use Gitment comment system please set the value to true.
-  owner: greyqz ## Your GitHub ID, e.g. username
-  repo: comment-repo ## The repository to store your comments, make sure you're the repo's owner, e.g. imsun.github.io
-  client_id: a601e271212c35ed226b ## GitHub client ID, e.g. 75752dafe7907a897619
-  client_secret: 5ed3571c5f098f56e996dc7e8e790ae301e6b6c4 ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
+  owner: greyqz ## Your GitHub ID
+  repo: comment-repo ## The repository to store your comments, make sure you're the repo's owner
+  client_id: 'a601e271212c35ed226b' ## GitHub client ID
+  client_secret: '5ed3571c5f098f56e996dc7e8e790ae301e6b6c4' ## GitHub client secret
 uyan: ## Your uyan_id. e.g. 1234567
 livere: ## Your livere data-uid, e.g. MTAyMC8zMDAxOC78NTgz
 changyan: ## Your changyan appid, e.g. cyrALsXc8
